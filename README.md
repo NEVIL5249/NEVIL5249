@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm [Your Full Name] 👋</h1>
+<h1 align="center">Hi, I'm Nevil Gadhia 👋</h1>
 
 <p align="center">
-  A passionate <strong>[Your Title – e.g., Full Stack Developer, Software Engineer]</strong> from [Your Country or City] <br/>
+  A passionate <strong>Software Engineer</strong> from Rajkot, India <br/>
   <em>Building scalable solutions | Lifelong learner | Open-source contributor</em>
 </p>
 
@@ -9,11 +9,11 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on **[Your Current Project or Role]**
-- 🌱 I’m currently learning **[Technologies, e.g., TypeScript, Docker, AWS]**
+- 🔭 I’m currently working on **Kevo | Smart Expense Tracker**
+- 🌱 I’m currently learning **[Next.js]**
 - 👯 I’m looking to collaborate on **open-source and impactful projects**
-- 💬 Ask me about **JavaScript, React, Node.js, REST APIs, Git, Agile**
-- 📫 How to reach me: [your.email@example.com](mailto:your.email@example.com)
+- 💬 Ask me about **JavaScript, React, Node.js, REST APIs, Flutter, Firebase, Android Development, Git, Agile**
+- 📫 How to reach me: [nevilg8690@gmail.com](mailto:your.email@example.com)
 - 🧠 Fun fact: I believe in *"Code, Coffee, Repeat."*
 
 ---
@@ -44,23 +44,8 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=github-dark-blue" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=github_dark" />
-</p>
-
----
-
 ## 🏆 Achievements & Certifications
-- ✅ [Certification Name] – [Provider]
-- ✅ [Award or Recognition]
-- ✅ [Relevant Hackathon/Competition Participation]
+- ✅ [Diving into Flutter] – [Google Developer Group]
 
 ---
 
@@ -68,7 +53,7 @@
 
 <p align="left">
   <a href="https://linkedin.com/in/yourlinkedin" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your.email@example.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:nevilg8690@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://yourportfolio.com"><img alt="Website" src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=firefox&logoColor=white" /></a>
 </p>
 

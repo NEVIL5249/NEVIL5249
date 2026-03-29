@@ -33,7 +33,8 @@
 
 ## What I Can Do For You
 
-| | |
+| Capability | Description |
+|---|---|
 | **Modern UI Development** | Pixel-precise interfaces that convert — built with React and Next.js |
 | **Design → Production** | I take Figma files or rough concepts and ship real, working applications |
 | **Performance Optimization** | Fast load times, clean code, optimized rendering — no bloat |
@@ -84,53 +85,50 @@
 
 ## Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>◈ ShadowCraft — Architectural Shadow Library</h3>
-      <p>A precision-crafted shadow system designed to bring depth and hierarchy into modern interfaces — built for developers who care about visual detail.</p>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/UI_System-000000?style=flat-square" />
-      </p>
-      <a href="#">→ View Project</a>
-    </td>
-
-    <td width="50%" valign="top">
-      <h3>◈ Eternal Esports — Esports Organization Website (Client Project)</h3>
-      <p>A production-ready website for a competitive Brawl Stars esports organization — designed to elevate brand presence, showcase team identity, and deliver a seamless, responsive experience.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js" />
-        <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-      </p>
-      <a href="#">→ View Project</a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
-      <h3>◈ eKhajanchi — Smart Business Management System</h3>
-      <p>A business-focused web application designed to simplify financial tracking and operational clarity for small-scale users.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/REST_API-FF6C37?style=flat-square" />
-      </p>
-      <a href="#">→ View Project</a>
-    </td>
-
-    <td width="50%" valign="top">
-      <h3>◈ Personal Portfolio</h3>
-      <p>A design-led portfolio built to convert — showcasing work, skills, and availability for clients.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js" />
-        <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-        <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
-      </p>
-      <a href="https://nevilgadhia.dev">→ Live Site</a>
-    </td>
-  </tr>
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+<h3>◈ ShadowCraft — Architectural Shadow Library</h3>
+<p>A precision-crafted shadow system designed to bring depth and hierarchy into modern interfaces — built for developers who care about visual detail.</p>
+<p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/UI_System-000000?style=flat-square" />
+</p>
+<a href="#">→ View Project</a>
+</td>
+<td width="50%" valign="top">
+<h3>◈ Eternal Esports — Esports Organization Website (Client Project)</h3>
+<p>A production-ready website for a competitive Brawl Stars esports organization — designed to elevate brand presence, showcase team identity, and deliver a seamless, responsive experience.</p>
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js" />
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+</p>
+<a href="#">→ View Project</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>◈ eKhajanchi — Smart Business Management System</h3>
+<p>A business-focused web application designed to simplify financial tracking and operational clarity for small-scale users.</p>
+<p>
+<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_API-FF6C37?style=flat-square" />
+</p>
+<a href="#">→ View Project</a>
+</td>
+<td width="50%" valign="top">
+<h3>◈ Personal Portfolio</h3>
+<p>A design-led portfolio built to convert — showcasing work, skills, and availability for clients.</p>
+<p>
+<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js" />
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
+</p>
+<a href="https://nevilgadhia.dev">→ Live Site</a>
+</td>
+</tr>
 </table>
 > *Update project names, descriptions, and links as you ship work.*
 

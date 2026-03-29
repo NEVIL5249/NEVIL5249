@@ -91,20 +91,22 @@
 <h3>◈ ShadowCraft — Architectural Shadow Library</h3>
 <p>A precision-crafted shadow system designed to bring depth and hierarchy into modern interfaces — built for developers who care about visual detail.</p>
 <p>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/UI_System-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/UI_Systems-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" />
 </p>
-<a href="#">→ View Project</a>
+<a href="https://shadowcraft.nevilgadhia.in/">→ View Project</a>
 </td>
 <td width="50%" valign="top">
 <h3>◈ Eternal Esports — Esports Organization Website (Client Project)</h3>
 <p>A production-ready website for a competitive Brawl Stars esports organization — designed to elevate brand presence, showcase team identity, and deliver a seamless, responsive experience.</p>
 <p>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
 </p>
-<a href="#">→ View Project</a>
+<a href="https://eternalesports.org/">→ View Project</a>
 </td>
 </tr>
 <tr>
@@ -112,11 +114,12 @@
 <h3>◈ eKhajanchi — Smart Business Management System</h3>
 <p>A business-focused web application designed to simplify financial tracking and operational clarity for small-scale users.</p>
 <p>
-<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/REST_API-FF6C37?style=flat-square" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white" />
 </p>
-<a href="#">→ View Project</a>
+<a href="https://demo.bizease.nevilgadhia.in/">→ View Project</a>
 </td>
 <td width="50%" valign="top">
 <h3>◈ Personal Portfolio</h3>
@@ -126,10 +129,11 @@
 <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
 <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
 </p>
-<a href="https://nevilgadhia.dev">→ Live Site</a>
+<a href="https://www.nevilgadhia.in/">→ Live Site</a>
 </td>
 </tr>
 </table>
+> *Update project names, descriptions, and links as you ship work.*
 
 ---
 

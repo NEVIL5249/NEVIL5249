@@ -133,7 +133,6 @@
 </td>
 </tr>
 </table>
-> *Update project names, descriptions, and links as you ship work.*
 
 ---
 
@@ -147,7 +146,7 @@
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=nevilgadhia&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+<img src="https://streak-stats.demolab.com?user=nevil5249&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 
 <br/><br/>
 

@@ -130,7 +130,6 @@
 </td>
 </tr>
 </table>
-> *Update project names, descriptions, and links as you ship work.*
 
 ---
 

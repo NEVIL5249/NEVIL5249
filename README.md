@@ -96,7 +96,7 @@
 <img src="https://img.shields.io/badge/UI_Systems-000000?style=flat-square" />
 <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" />
 </p>
-<a href="https://shadowcraft.nevilgadhia.in/">→ View Project</a>
+<a href="https://shadowcraft.nevilgadhia.in/">→ View Site</a>
 </td>
 <td width="50%" valign="top">
 <h3>◈ Eternal Esports — Esports Organization Website (Client Project)</h3>
@@ -106,7 +106,7 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
 </p>
-<a href="https://eternalesports.org/">→ View Project</a>
+<a href="https://eternalesports.org/">→ View Site</a>
 </td>
 </tr>
 <tr>
@@ -119,7 +119,7 @@
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
 <img src="https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white" />
 </p>
-<a href="https://demo.bizease.nevilgadhia.in/">→ View Project</a>
+<a href="https://bizease.nevilgadhia.in/">→ View Site</a>
 </td>
 <td width="50%" valign="top">
 <h3>◈ Personal Portfolio</h3>

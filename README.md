@@ -140,9 +140,9 @@
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=nevil5249&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github" />
+<img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nevil5249&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github" />
 &nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nevil5249&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+<img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nevil5249&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
 
 <br/><br/>
 
@@ -153,7 +153,6 @@
 <img src="https://raw.githubusercontent.com/nevil5249/nevil5249/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
-
 ---
 
 ## Let's Work Together

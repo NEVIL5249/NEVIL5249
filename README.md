@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=32&duration=3000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Nevil+Gadhia.;Frontend+Developer.;I+build+things+people+remember.)](https://git.io/typing-svg)
+# NEVIL GADHIA
 
 <br/>
 
@@ -13,9 +13,10 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://nevilgadhia.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logoColor=black)](https://nevilgadhia.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nevilgadhia)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nevil@nevilgadhia.dev)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/nevil5249)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nevilg8690@gmail.com)
 
 </div>
 
@@ -33,7 +34,6 @@
 ## What I Can Do For You
 
 | | |
-|---|---|
 | **Modern UI Development** | Pixel-precise interfaces that convert — built with React and Next.js |
 | **Design → Production** | I take Figma files or rough concepts and ship real, working applications |
 | **Performance Optimization** | Fast load times, clean code, optimized rendering — no bloat |
@@ -53,6 +53,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 
 **Backend**
 
@@ -64,6 +65,8 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
 **Tools & Workflow**
 
@@ -73,6 +76,9 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor_AI-000000?style=flat-square&logo=cursor&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-000000?style=flat-square&logo=rocket&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
 ---
 
@@ -160,9 +166,10 @@ If you're building something and need a frontend developer who cares about the d
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/nevilgadhia.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://nevilgadhia.dev)
+[![Portfolio](https://img.shields.io/badge/nevilgadhia.in-FFD700?style=for-the-badge&logoColor=black)](https://nevilgadhia.in)
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nevilgadhia)
-[![Email](https://img.shields.io/badge/nevil@nevilgadhia.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nevil@nevilgadhia.dev)
+[![X](https://img.shields.io/badge/Follow_on_X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/nevil5249)
+[![Email](https://img.shields.io/badge/nevil@nevilgadhia.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nevil@nevilgadhia.in)
 
 ---
 

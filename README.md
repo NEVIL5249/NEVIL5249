@@ -140,9 +140,9 @@
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=nevilgadhia&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=nevil5249&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github" />
 &nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nevilgadhia&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nevil5249&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
 
 <br/><br/>
 
@@ -150,11 +150,9 @@
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/nevilgadhia/nevilgadhia/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/nevil5249/nevil5249/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
-
-> **Note:** Replace `nevilgadhia` in all URLs with your actual GitHub username. For the snake animation, follow the [setup guide](https://github.com/Platane/snk) to enable the GitHub Action.
 
 ---
 
